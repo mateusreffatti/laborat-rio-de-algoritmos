@@ -10,4 +10,4 @@ else:
    print("Sexo inválido")
    exit()
 
-print(f"Peso ideal: {peso_ideal:.2f} kg")
+print(f"Peso ideal: (peso_ideal:.2f) kg")
