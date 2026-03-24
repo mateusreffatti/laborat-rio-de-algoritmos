@@ -5,4 +5,4 @@ salario = horas * 35
 if salario < 1000:
    salario += 300
 
-print(f"Salário final: R$ {salario:.2f}")
+print(f"Salário final: R$ (salario:.2f)")
