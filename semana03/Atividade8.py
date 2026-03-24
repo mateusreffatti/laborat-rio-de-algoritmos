@@ -6,4 +6,4 @@ if valor > 100:
 else:
    valor_final = valor
 
-print(f"Valor final: R$ {valor_final:.2f}")
+print(f"Valor final: R$ (valor_final:.2f)")
