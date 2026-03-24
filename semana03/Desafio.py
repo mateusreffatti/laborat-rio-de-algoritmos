@@ -16,6 +16,6 @@ else:
 valor_final = valor - desconto
 
 print("\n--- Resultado ---")
-print(f"Cliente: {nome}")
-print(f"Valor original: R$ {valor:.2f}")
-print(f"Valor final: R$ {valor_final:.2f}")
+print(f"Cliente: (nome)")
+print(f"Valor original: R$ (valor:.2f)")
+print(f"Valor final: R$ (valor_final:.2f)")
