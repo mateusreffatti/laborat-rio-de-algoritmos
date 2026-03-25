@@ -1,4 +1,3 @@
- 6) Número positivo ou negativo
 numero = float(input("Digite um número: "))
 
 if numero >= 0:
