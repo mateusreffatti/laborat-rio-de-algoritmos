@@ -1,4 +1,3 @@
-8) Desconto na compra (> R$100)
 valor = float(input("Digite o valor da compra: R$ "))
 
 if valor > 100:
