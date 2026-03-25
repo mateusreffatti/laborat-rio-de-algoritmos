@@ -1,4 +1,3 @@
-Classificação por idade
 idade = int(input("Digite a idade: "))
 
 if idade >= 18:
