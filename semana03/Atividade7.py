@@ -1,4 +1,3 @@
-7) Peso ideal
 altura = float(input("Digite a altura (em metros): "))
 sexo = input("Digite o sexo (M/F): ").upper()
 
