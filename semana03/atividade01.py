@@ -1,4 +1,3 @@
-Salário do funcionário
 horas = float(input("Digite o total de horas trabalhadas no mês: "))
 salario = horas * 35
 
